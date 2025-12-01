@@ -1,7 +1,3 @@
-Berikut isi README.md yang bisa langsung kamu pakai. Tinggal simpan sebagai file `README.md` di folder `submission/`.
-
----
-
 # CNN Image Classification – 5 Flower Types
 
 Proyek ini adalah implementasi Convolutional Neural Network (CNN) untuk klasifikasi citra 5 jenis bunga menggunakan TensorFlow dan Keras. Proyek dibuat untuk memenuhi kriteria submission, termasuk penggunaan dataset ≥ 1000 gambar, pembagian train/validation/test, penggunaan model Sequential dengan Conv2D dan pooling, target akurasi ≥ 85%, serta penyimpanan model dalam format SavedModel, TFLite, dan TFJS.
